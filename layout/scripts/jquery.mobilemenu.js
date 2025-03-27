@@ -1,5 +1,5 @@
 /*
-Template Name: Edgpress
+Template Name: OKORO ANYAELE AMANNAC
 Author: <a href="https://www.os-templates.com/">OS Templates</a>
 Author URI: https://www.os-templates.com/
 Licence: Free to use under our free template licence terms
